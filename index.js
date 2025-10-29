@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
         </style>
     </head>
     <body>
-        
+        <p>Adicionei um paragrafo!</p>
     </body>
     </html>
   `);
