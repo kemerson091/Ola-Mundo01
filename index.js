@@ -15,6 +15,8 @@ app.get('/', (req, res) => {
         <style>
             body{
                 background-color: rgb(50, 173, 173);
+                width:100%;
+                height:100%;
             }
         </style>
     </head>
